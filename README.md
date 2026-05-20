@@ -1,3 +1,2 @@
 # project-1
-My first java project 
-project name - MCQ app
+My first java project name - MCQ app
